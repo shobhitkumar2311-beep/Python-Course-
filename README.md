@@ -119,6 +119,6 @@ python Project-1/01.py
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:0a0e27&height=120&section=footer" width="100%"/>
 
-**Anu sini** — [@Anucodex21](https://github.com/Anucodex21)
+**Anu sini** — [@shobhitkumar2311-beep](https://github.com/shobhitkumar2311-beep)
 
 </div>
